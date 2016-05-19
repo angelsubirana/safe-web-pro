@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Safe Web for business"
-keywords:    "safe, web, for, business, work, office, browser, whitelist, sandbox, control, access, limited, best, app, ios"
-description: "Safe Web is a web browser for iPhone and iPad devices."
+title:       "Safe Web for work"
+keywords:    "safe, web, for, work, business, work, office, browser, whitelist, sandbox, control, access, limited, best, app, ios, hotel, airport"
+description: "Safe Web for work is a web browser for iOS devices."
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-25289053-7 ## put YOUR key here to enable tracking! (blank to disable)
@@ -25,7 +25,7 @@ appstore_link: "https://itunes.apple.com/app/safe-web-for-business/id1114000127?
 
 ### template colors, used site-wide via css ###
 colors:
-  red:       '#8E2223'      
+  red:       '#5A5151'      
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#49a7e9'
