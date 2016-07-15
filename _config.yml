@@ -14,14 +14,13 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Safe Web for work"
-keywords:    "safe, web, for, work, business, work, office, browser, whitelist, sandbox, control, access, limited, best, app, ios, hotel, airport"
-description: "Safe Web for work is a web browser for iOS devices."
+title:       "Safe Web for work - Whitelist Internet browser for enterprise protection"
+keywords:    "safe, web, for, work, business, work, office, browser, whitelist, sandbox, control, access, limited, best, app, ios, hotel, airport, shop, content, restricted, filter, blocker, sandbox, kiosk, site, secure, app, ios, blacklist, network, security, porn, anonym, guest, authorized"
+description: "Safe Web for work is a safe web browser for iOS devices. Safe Web is a must have in order to control what your guest customers and employees browse."
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-25289053-7 ## put YOUR key here to enable tracking! (blank to disable)
 appstore_link: "https://itunes.apple.com/app/safe-web-for-business/id1114000127?ct=web&mt=8&at=1000lom5"
-
 
 ### template colors, used site-wide via css ###
 colors:
