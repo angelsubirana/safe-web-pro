@@ -25,6 +25,21 @@ appstore_link: "https://itunes.apple.com/app/safe-web-for-business/id1114000127?
 url: https://safewebpro.bobgoo.com
 enforce_ssl: safewebpro.bobgoo.com
 
+twitter:
+    username: "@SafeWebforwork"
+    
+defaults:
+  -
+    scope:
+        path: ""
+    values:
+        image:
+            #path: /img/Icon-Rounded-256.png
+            twitter: /img/FBBanner.png
+            facebook: /img/FBBanner.png
+            height: 630
+            width: 1200   
+
 ### template colors, used site-wide via css ###
 colors:
   red:       '#5A5151'      
