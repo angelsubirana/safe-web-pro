@@ -35,7 +35,7 @@ defaults:
     values:
         image:
             #path: /img/Icon-Rounded-256.png
-            twitter: /img/FBBanner2.png
+            twitter: /img/FBBanner.png
             facebook: /img/FBBanner.png
             height: 630
             width: 1200   
