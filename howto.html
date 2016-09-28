@@ -23,16 +23,6 @@
 <body>
   <div id="main">
 
-    <nav><ul>
-      {% for node in site.posts reversed %}
-        {% if node.howto %}
-        	{% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-        	<li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
-        {% endif %}	
-      {% endfor %}
-    </ul></nav>
-
-
     {% for page in site.posts reversed %}
       {% if page.howto %}
       	  {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
