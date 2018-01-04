@@ -1,5 +1,5 @@
 User-Agent: *
 Disallow: 
-Disallow: /privacy.html
+Disallow: /privacy*
 
 Sitemap: https://safewebpro.bobgoo.com/sitemap.xml
