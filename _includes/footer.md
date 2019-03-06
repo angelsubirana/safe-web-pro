@@ -1,6 +1,6 @@
 
 
-All Rights Reserved. © 2016-2018 [Angel Subirana](https://www.bobgoo.com)
+All Rights Reserved. © 2019 [Bobgoo SLU](https://www.bobgoo.com)
 
 <a href="https://twitter.com/safewebpro"><span class="fa-stack fa-lg">
 <i class="fa fa-circle fa-stack-2x"></i>
